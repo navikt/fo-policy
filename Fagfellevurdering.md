@@ -11,12 +11,12 @@
 - Sjekk eventuelle feature-toggles. Sjekk at det fungerer å skru disse av og på, og at funksjonaliteten skjules/vises som forventet
 - Clean code. Sjekk kodekvalitet, lesbarhet og forståelse, og at ting forstås funksjonelt
 - Sjekk kodeanalyse i Sonar, se etter violations
-- Sjekk at policies er fulgt. Ref https://github.com/navikt/fo-policy 
+- Sjekk at policies er fulgt. Ref https://github.com/navikt/fo-policy
+- Sjekk at evt. endringer i APIer er bakoverkompatible
 - Sjekk testkvalitet. Verifiser at relevant kode er testet 
 - Sjekk at exceptions som fanges faktisk logges 
 - Sjekk logger. Se etter warnings og errors
 - Sjekk at brukerhistorie er tagget med nødvendig metadata
-
 
 ## Sikkerhet
 - Autorisering. Sjekk at det gjøres ABAC-autorisering ved endring av/innføring av nye endepunkter
