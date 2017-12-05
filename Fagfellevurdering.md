@@ -12,7 +12,7 @@
 - Clean code. Sjekk kodekvalitet, lesbarhet og forståelse, og at ting forstås funksjonelt
 - Sjekk kodeanalyse i Sonar, se etter violations
 - Sjekk at policies er fulgt. Ref https://github.com/navikt/fo-policy
-- Sjekk at evt. endringer i APIer er bakoverkompatible
+- Sjekk at evt. endringer i APIer og migreringsscript er bakoverkompatible
 - Sjekk testkvalitet. Verifiser at relevant kode er testet 
 - Sjekk at exceptions som fanges faktisk logges 
 - Sjekk logger. Se etter warnings og errors
