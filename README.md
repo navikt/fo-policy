@@ -5,5 +5,5 @@
 
 ## Automatiske policies
 - Alle commits tagges med brukerhistorie
-http://stash.devillo.no/projects/PUS/repos/policy-validator/browse/src/main/java/no/nav/pus/policyvalidator/TaggetMedBrukerhistorie.java
+https://github.com/navikt/pus-policy-validator/blob/master/src/main/java/no/nav/pus/policyvalidator/TaggetMedBrukerhistorie.java
 
