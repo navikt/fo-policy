@@ -22,7 +22,6 @@
 - Autorisering. Sjekk at det gjøres ABAC-autorisering ved endring av/innføring av nye endepunkter
 - Sjekk logger og se etter persondata som f.eks fnr. Abac-loggene skal i egne logger og ikke ligge tilgjengelig i Kibana
 - Sjekk at URL-parametre ikke brukes direkte uten validering / sanitering	
-- ?? Manuell OWASP-sjekk inn til dette blir automatisert ??
 
 ## Database
 - Ved opprettelse av tabeller eller nye kolonner, se etter potensielle behov for indekser
