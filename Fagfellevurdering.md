@@ -13,10 +13,12 @@
 - Sjekk kodeanalyse i Sonar, se etter violations
 - Sjekk at policies er fulgt. Ref https://github.com/navikt/fo-policy
 - Sjekk at evt. endringer i APIer og migreringsscript er bakoverkompatible
-- Sjekk testkvalitet. Verifiser at relevant kode er testet 
+- Sjekk testkvalitet backend. Verifiser at relevant kode er testet
+- Sjekk testkvalitet frontend. Verifiser at relevant kode er testet
 - Sjekk at exceptions som fanges faktisk logges 
 - Sjekk logger. Se etter warnings og errors
 - Sjekk at brukerhistorie er tagget med nødvendig metadata
+- Gå gjennom commit-meldinger. Disse bør inneholde JIRA-referanse og være forstålige for andre enn utviklere (meldingene brukes til vurdering på go/no-go-møtet)
 
 ## Sikkerhet
 - Autorisering. Sjekk at det gjøres ABAC-autorisering ved endring av/innføring av nye endepunkter
