@@ -28,6 +28,7 @@
 ## Database
 - Ved opprettelse av tabeller eller nye kolonner, se etter potensielle behov for indekser
 - Se etter manglende parametrisering av SQL. (SQL-injection)
+- Sjekk at migreringen enten skjer fullstendig eller ikke i det hele tatt. Wrap migreringen inn i en transaction. Delvis migreringer er vanskelig å komme seg ut av.
 
 ## Universell utforming
 - Se etter semantisk korrekt bruk av h1, h2, h3? Korrekt rekkefølge h1,h2,h3 i stedet for h6,h7,h8.
