@@ -17,8 +17,8 @@
 - Sjekk testkvalitet frontend. Verifiser at relevant kode er testet
 - Sjekk at exceptions som fanges faktisk logges 
 - Sjekk logger. Se etter warnings og errors
-- Sjekk at brukerhistorie er tagget med nødvendig metadata
 - Gå gjennom commit-meldinger. Disse bør inneholde JIRA-referanse og være forstålige for andre enn utviklere (meldingene brukes til vurdering på go/no-go-møtet). Typiske tekniske utbedringer kan merkes med TU.
+- Hvis oppgaven er av en veldig teknisk art, pass på at det er kommentert på PK-saken hva som er gjort, evt hvorfor.
 
 ## Sikkerhet
 - Autorisering. Sjekk at det gjøres ABAC-autorisering ved endring av/innføring av nye endepunkter
@@ -34,4 +34,7 @@
 - Se etter semantisk korrekt bruk av h1, h2, h3? Korrekt rekkefølge h1,h2,h3 i stedet for h6,h7,h8.
 - Alle input, links, images, buttons og andre synlige elementer bør ha alt tekst.
 - Input felter må ha placeholder og label.
+
+## Til slutt
+- Husk å kommentere på PK-saken at man har utført fagfellevurdering.
   
