@@ -18,7 +18,7 @@
 - Sjekk at exceptions som fanges faktisk logges 
 - Sjekk logger. Se etter warnings og errors
 - Sjekk at brukerhistorie er tagget med nødvendig metadata
-- Gå gjennom commit-meldinger. Disse bør inneholde JIRA-referanse og være forstålige for andre enn utviklere (meldingene brukes til vurdering på go/no-go-møtet)
+- Gå gjennom commit-meldinger. Disse bør inneholde JIRA-referanse og være forstålige for andre enn utviklere (meldingene brukes til vurdering på go/no-go-møtet). Typiske tekniske utbedringer kan merkes med TU.
 
 ## Sikkerhet
 - Autorisering. Sjekk at det gjøres ABAC-autorisering ved endring av/innføring av nye endepunkter
