@@ -32,7 +32,7 @@
 
 ## Universell utforming
 - Se etter semantisk korrekt bruk av h1, h2, h3? Korrekt rekkefølge h1,h2,h3 i stedet for h6,h7,h8.
-- Alle input, links, images, buttons og andre synlige elementer bør ha alt tekst.
+- Alle input, links, images og andre synlige elementer bør ha alt tekst.
 - Input felter må ha placeholder og label.
 - Alle elementer nås med tastatur. F.eks.: lenker, knapper, radioknapper, checkboxer, nedtrekksmenyer og funksjoner kan styres ved tastatur. At man kan navigere seg vekk/videre vha tastatur.
 - 
