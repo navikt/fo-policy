@@ -11,11 +11,14 @@
   - Kjør opp appen lokalt og gjør en funksjonell verifikasjon av brukerhistorien
 - Sjekk eventuelle feature-toggles. Sjekk at det fungerer å skru disse av og på, og at funksjonaliteten skjules/vises som forventet
 - Clean code. Sjekk kodekvalitet, lesbarhet og forståelse, og at ting forstås funksjonelt
-- Sjekk kodeanalyse i Sonar, se etter violations
+- Kodeanalyse
+  - Sonar, se etter violations
+  - Prettier
+  - Linter
 - Sjekk at policies er fulgt. Ref https://github.com/navikt/fo-policy
 - Sjekk at evt. endringer i APIer og migreringsscript er bakoverkompatible
-- Sjekk testkvalitet backend. Verifiser at relevant kode er testet
-- Sjekk testkvalitet frontend. Verifiser at relevant kode er testet
+- Sjekk testkvalitet backend. Verifiser at relevant kode er testet. Kjør tester.
+- Sjekk testkvalitet frontend. Verifiser at relevant kode er testet. Kjør tester.
 - Sjekk at exceptions som fanges faktisk logges 
 - Sjekk logger. Se etter warnings og errors
 - Gå gjennom commit-meldinger. Disse bør inneholde JIRA-referanse og være forstålige for andre enn utviklere (meldingene brukes til vurdering på go/no-go-møtet). Typiske tekniske utbedringer kan merkes med TU.
