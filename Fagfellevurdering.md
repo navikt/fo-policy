@@ -39,7 +39,7 @@
 - Alle input, links, images og andre synlige elementer bør ha alt tekst.
 - Input felter må ha placeholder og label.
 - Alle elementer nås med tastatur. F.eks.: lenker, knapper, radioknapper, checkboxer, nedtrekksmenyer og funksjoner kan styres ved tastatur. At man kan navigere seg vekk/videre vha tastatur.
-- 
+- Vurder punktene under "Design av enkeltelementer og koding" : https://confluence.adeo.no/display/INI754/FO+-+Brukskvalitetskrav+-+ekstern+arbeidsflate#expand-Kravtiltastaturnavigasjon
 
 ## Til slutt
 - Husk å kommentere på PK-saken at man har utført fagfellevurdering.
