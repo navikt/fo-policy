@@ -21,8 +21,9 @@
 - Sjekk testkvalitet frontend. Verifiser at relevant kode er testet. Kjør tester.
 - Sjekk at exceptions som fanges faktisk logges 
 - Sjekk logger. Se etter warnings og errors
-- Gå gjennom commit-meldinger. Disse bør inneholde JIRA-referanse og være forstålige for andre enn utviklere (meldingene brukes til vurdering på go/no-go-møtet). Typiske tekniske utbedringer kan merkes med TU.
+- Gå gjennom commit-meldinger. Disse bør inneholde JIRA-referanse og være forstålige for andre enn utviklere (meldingene brukes til vurdering på go/no-go-møtet).
 - Hvis oppgaven er av en veldig teknisk art, pass på at det er kommentert på PK-saken hva som er gjort, evt hvorfor.
+- Hvis oppgaven innebærer nytt design, få det godkjent av designer.
 
 ## Sikkerhet
 - Autorisering. Sjekk at det gjøres ABAC-autorisering ved endring av/innføring av nye endepunkter
