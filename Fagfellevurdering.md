@@ -9,8 +9,9 @@
 - Akseptansekriterier
   - Verifiser at de er dekket i koden
   - Kjør opp appen lokalt og gjør en funksjonell verifikasjon av brukerhistorien
+  - Verifiser i Chrome, IE, og på mobil for å luke ut de groveste feilene
 - Sjekk eventuelle feature-toggles. Sjekk at det fungerer å skru disse av og på, og at funksjonaliteten skjules/vises som forventet
-- Clean code. Sjekk kodekvalitet, lesbarhet og forståelse, og at ting forstås funksjonelt
+- Clean code. Sjekk kodekvalitet, lesbarhet og forståelse, og at ting forstås funksjonelt. Husk UU.
 - Kodeanalyse
   - Sonar, se etter violations
   - Prettier
