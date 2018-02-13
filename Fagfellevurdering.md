@@ -49,4 +49,5 @@
 
 ## Til slutt
 - Husk å kommentere på PK-saken at man har utført fagfellevurdering.
+- Husk å teste saken i testmijø før den blir satt videre til test 1.
   
