@@ -49,6 +49,10 @@
 - Alle elementer nås med tastatur. F.eks.: lenker, knapper, radioknapper, checkboxer, nedtrekksmenyer og funksjoner kan styres ved tastatur. At man kan navigere seg vekk/videre vha tastatur.
 - Vurder punktene under "Design av enkeltelementer og koding" : https://confluence.adeo.no/display/INI754/FO+-+Brukskvalitetskrav+-+ekstern+arbeidsflate#expand-Kravtiltastaturnavigasjon
 
+## Testing
+- Vurder behovet for automatisert testdekning ut i fra den verktøykassen vi har. På hvilken måte påvirker endringene funksjonelle og ikke-funksjonelle krav? Kan dette dekkes med en eller flere tester?
+  - Enhetstest, integrasjonstest, smoketest, regresjonstest, browsertest, kontraktstest og UU-test
+
 ## Til slutt
-- Husk å kommentere på PK-saken at man har utført fagfellevurdering.
+- Husk å kommentere på FO-saken at man har utført fagfellevurdering.
   
