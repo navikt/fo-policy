@@ -26,6 +26,7 @@
 - Gå gjennom commit-meldinger. Disse bør inneholde JIRA-referanse og være forstålige for andre enn utviklere (meldingene brukes til vurdering på go/no-go-møtet).
 - Hvis oppgaven er av en veldig teknisk art, pass på at det er kommentert på PK-saken hva som er gjort, evt hvorfor.
 - Hvis oppgaven innebærer nytt design, få det godkjent av designer.
+- Vurder om bruk av ny funksjonalitet bør måles ved hjelp av metrikker eller ekstra logging.
 
 ## Nye tjenester / endepunkter
 - Sjekk at evt. endringer i APIer er bakoverkompatible
